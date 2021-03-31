@@ -63,7 +63,7 @@
     "mysql": "^2.6.1",
     "nami": "^0.7.1",
     "native-dns": "^0.7.0",
-    "netmask": "^1.0.5",
+    "netmask": "^2.0.1",
     "node-freegeoip": "0.0.1",
     "node-wifiscanner": "^0.2.0",
     "ping": "^0.1.9",
