@@ -70,7 +70,7 @@
     "prettyjson": "^1.1.0",
     "request": "^2.55.0",
     "require-directory": "^2.1.0",
-    "shelljs": "^0.7.3",
+    "shelljs": "^0.8.5",
     "shodan-client": "^2.0.0",
     "sip-fake-stack": "jesusprubio/sip-fake-stack",
     "snmp-native": "^1.0.18",
