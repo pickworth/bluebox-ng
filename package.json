@@ -47,7 +47,7 @@
   "dependencies": {
     "async": "^2.0.1",
     "bluebird": "^3.4.1",
-    "cli-color": "^1.1.0",
+    "cli-color": "^2.0.1",
     "debug": "^2.2.0",
     "dns-axfr": "^0.1.2",
     "exploitsearch": "^1.0.9",
